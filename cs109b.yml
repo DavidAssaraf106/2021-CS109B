@@ -26,7 +26,11 @@ dependencies:
     - seaborn
     - statsmodels
     - sympy
-    - tensorflow>=2.3
+
+
+
+
+
     - theano
     - urllib3
 
